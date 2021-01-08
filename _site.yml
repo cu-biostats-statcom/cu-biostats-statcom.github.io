@@ -16,6 +16,6 @@ output:
   html_document:
     include:
         after_body: footer.html
-    theme: cerulean
+    theme: lumen
     css: styles.css
 google_analytics: "UA-124182553-2"
