@@ -1,42 +1,53 @@
 
 ---
-title: STATCOM - Columbia Biostatistics 
 output:
   html_document:
     df_print: paged
 ---
 
+<style type="text/css">
+.main-container {
+  max-width: 875px;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 
+
+<div align="center">
+   
+<p>  
+
+<img src="./logo.PNG" style="width:45%"> 
+
+<hr style="border:2px solid gray"> </hr>
+
+
+#### **Our Mission** 
+
+
+STATCOM is a community outreach program provided to New York City by graduate students in the Department of Biostatistics at Mailman School of Public Health. We offer professional statistical consulting, free of charge, to non-profit community and local governmental groups in the areas of data organization, analysis, and interpretation. 
 
 <p>
 
-<img src="images/statcom_logo.PNG" style="width:25%" align="left" hspace="20"> 
+#### **Our History**
 
-STATCOM is a community outreach program provided to New York City by graduate students in the Department of Biostatistics at Mailman School of Public Health. We offer professional statistical con-sulting, free of charge, to non-profit community and local governmental groups in the areas of data or-ganization, analysis, and interpretation. Through participation students benefit by gaining hand on experience while providing service to our local community. 
+The first STATCOM Chapter was founded in 2001 at Purdue University’s Department of Statistics with support from a Member Initiatives Grant from the American Statistical Association (ASA). Since then a network of STATCOM programs has been established and active chapters are housed in statistics and Biostatistics departments throughout the country. The Columbia University chapter was founded in 2021 by Biostatistics students [Maddie Stoms](https://www.linkedin.com/in/madison-stoms-597155127/), [Charly Fowler](https://www.linkedin.com/in/charlotte-fowler-2a86b71a0/), [Steven Lawrence](www.sl4269.github.io), and [Muhire Kwizera](https://www.linkedin.com/in/muhire-honorine-kwizera-96253583/) with the help of faculty advisor [Cody Chiuzan](https://www.publichealth.columbia.edu/people/our-faculty/cc3780). 
 
 <p>
 
-STATCOM is lead by Columbia Biostatistics students [Maddie Stoms](https://www.linkedin.com/in/madison-stoms-597155127/), [Charly Fowler](https://www.linkedin.com/in/charlotte-fowler-2a86b71a0/), [Steven Lawrence](www.sl4269.github.io), and [Muhire Kwizera](https://www.linkedin.com/in/muhire-honorine-kwizera-96253583/) with the help of faculty advisor [Cody Chiuzan](https://www.publichealth.columbia.edu/people/our-faculty/cc3780). 
+
+#### **Our Vision**
+The STATCOM team is committed to leveraging our expertise for the betterment of local organizations and, consequently, the welfare of our community. We are passionate about using data to inform decision making and desire to engage in high-impact research with community advocates.
 
 </p>
 
-&nbsp;
 
-&nbsp;
+***Thank you for your interest in STATCOM. We would love to know how we can partner with you in your mission!***
 
-&nbsp;
 
-### Services provided by STATCOM
+<img src="./nyc.jpg" style="length:80%"> 
 
-* Survey/sample design and analysis
+</div>
 
-* Graphical and statistical methods of summarizing and presenting data
-
-* Interpretation of survey results
-
-* Development of statistical models
-
-* Trend analysis and more
-
-STATCOM is able to assist in areas of study design, analysis, and the interpretation of results; however, we do not have the resources to assist in data collection and entry.
 
