@@ -3,10 +3,10 @@ output_dir: "."
 navbar:
   title: "Home"
   left:
-     - text: "Community Partners"
-       href: community_partners.html
-     - text: "About"
+     - text: "About Us"
        href: about.html
+     - text: "Services"
+       href: services.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:<crf2147@cumc.columbia.edu>

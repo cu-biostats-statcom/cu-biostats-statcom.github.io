@@ -5,12 +5,27 @@ output:
     df_print: paged
 ---
 
+
+
 <style type="text/css">
 .main-container {
   max-width: 875px;
   margin-left: auto;
   margin-right: auto;
 }
+
+.navbar {
+  background-color: #8cbad4;
+}
+
+.navbar .navbar-brand {
+  color: white;
+}
+.navbar .navbar-nav>li>a {
+  color: white;
+}
+ }
+ 
 </style>
 
 
@@ -18,7 +33,7 @@ output:
    
 <p>  
 
-<img src="./logo.PNG" style="width:45%"> 
+<img src="./images/logo.PNG" style="width:45%"> 
 
 <hr style="border:2px solid gray"> </hr>
 
@@ -46,7 +61,7 @@ The STATCOM team is committed to leveraging our expertise for the betterment of 
 ***Thank you for your interest in STATCOM. We would love to know how we can partner with you in your mission!***
 
 
-<img src="./nyc.jpg" style="length:80%"> 
+<img src="./images/nyc.jpg" style="length:80%"> 
 
 </div>
 
