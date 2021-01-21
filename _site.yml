@@ -14,8 +14,6 @@ navbar:
       href: https://github.com/cu-biostats-statcom
 output:
   html_document:
-    include:
-        after_body: footer.html
-    theme: lumen
+    theme: paper
     css: styles.css
 google_analytics: "UA-124182553-2"
