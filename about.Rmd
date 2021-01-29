@@ -72,6 +72,17 @@ Contact: crf2147@cumc.columbia.edu
 Muhire is a Biostatistics PhD candidate at Columbia University. She is fascinated by anything data, and she has worked on various projects in biostatistical methods, brain imaging, time series, spatiotemporal analysis, bayesian statistics, and measurement error. In her free time, Muhire enjoys singing in a choir, taking walks, and meeting up with friends.   
 Contact: mhk2159@cumc.columbia.edu
 
+<p>&nbsp;</p>
+
+<img src="./images/Steven.png" style="width:25%; float:left; padding:20px;"> 
+
+<p>&nbsp;</p>
+
+#### **Steven Lawrence**
+Steven is currently a second year Masters student in the Biostatistics program at Columbia University. Being introduced to disparities analytics while volunteering at Mount Sinai, Steven has developed a passion for working with time series data, making visualizations and consulting. He is also a research assistant at the Center for Scientific Diversity. His goal is to contribute to diversity by helping to educate the next generation of underrepresented minorities in STEM.  
+Contact: sl4269@cumc.columbia.edu
+
+
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
