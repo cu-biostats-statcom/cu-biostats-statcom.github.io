@@ -24,6 +24,11 @@ output:
   color: white;
   font-size: 1.2em;
 }
+.active a {
+
+  background-color: #89d2f8 !important;
+
+}
  }
  
 </style>
@@ -35,6 +40,33 @@ output:
 ## **Our Team**
 
 <hr style="border:2px solid gray"> </hr>
+
+
+
+
+<img src="./images/Maddie.png" style="width:20%; float:left; padding:20px;"> 
+
+#### **Maddie Stoms**
+Maddie is a second year PhD student in the department of Biostatistics. She is interested in functional data, personalized medicine, and the intersection of data and decision making. As a devout people-person, she spends most of her time cooking for, road-tripping with, and explaining p-values to the people she loves.   
+Contact: ms5975@cumc.columbia.edu
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="./images/Charly.png" style="width:20%; float:left; padding:20px;"> 
+
+#### **Charly Fowler**
+Charly is a second year PhD student in the department of Biostatistics. Her research interests include causal inference, missing data, mental health, and health disparities. She is currently investigating statistical methods to account for missing data in time series with applications to mobile health studies. When not working, she enjoys cooking, hiking, and playing with her cat.   
+Contact: crf2147@cumc.columbia.edu
+
+
+
+
+
+
+
+
+
 
 
 <style>
@@ -72,7 +104,7 @@ output:
 
 <p>
 ##### **Maddie Stoms**
-Maddie is a second year PhD student in the department of Biostatistics. She is interested in functional data, personalized medicine, and the intersection of data and decision making. As a devout people-person, she spends most of her time cooking for, hiking with, and explaining p-values to the people she loves.  
+Maddie is a second year PhD student in the department of Biostatistics. She is interested in functional data, personalized medicine, and the intersection of data and decision making. As a devout people-person, she spends most of her time cooking for, road-tripping with, and explaining p-values to the people she loves.  
 Contact: ms5975@cumc.columbia.edu
 
 <p>&nbsp;</p>
@@ -88,10 +120,9 @@ Muhire is a Biostatistics PhD candidate at Columbia University. She is fascinate
 Contact: mhk2159@cumc.columbia.edu
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 </div>
-
+</div>
 
 
 
@@ -99,7 +130,7 @@ Contact: mhk2159@cumc.columbia.edu
 
 <img src="./images/nyc.jpg" style="length:80%"> 
 
-</div>
+
 
 
 

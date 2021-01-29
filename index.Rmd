@@ -24,6 +24,11 @@ output:
   color: white;
   font-size: 1.2em;
 }
+.active a {
+
+  background-color: #89d2f8 !important;
+
+}
  }
  
 </style>
@@ -60,12 +65,12 @@ The STATCOM team is committed to leveraging our expertise for the betterment of 
 
 
 
-<hr style="border:2px solid grey" width="10%"> </hr>
+<hr style="border:1px solid grey" width="25%"> </hr>
 
 
 ***Thank you for your interest in STATCOM. We would love to know how we can partner with you in your mission!***
 
-Interested Organizations: [Service Request Form](https://docs.google.com/forms/d/e/1FAIpQLSf_c3zbxjEaNjS-LAILzmSfJU9q4NkIG0CDTUtlK5ZGG3PD7w/viewform?usp=sf_link) &#160;&#160;&#160; Interested Students: [Student Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSe3pnlBPGF3xVpiuJBGVi7jZRQLZg_5n8n5XRAi05WaP_2YWQ/viewform?usp=sf_link)
+For Organizations: &#160; [Service Request Form](https://docs.google.com/forms/d/e/1FAIpQLSf_c3zbxjEaNjS-LAILzmSfJU9q4NkIG0CDTUtlK5ZGG3PD7w/viewform?usp=sf_link) &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; For Students: &#160; [Student Volunteer Form](https://docs.google.com/forms/d/e/1FAIpQLSe3pnlBPGF3xVpiuJBGVi7jZRQLZg_5n8n5XRAi05WaP_2YWQ/viewform?usp=sf_link)
 
 
 
