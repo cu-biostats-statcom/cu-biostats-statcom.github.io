@@ -1,5 +1,4 @@
 ---
-title:
 output:
   html_document:
     df_print: paged
@@ -53,7 +52,7 @@ STATCOM serves government and non-profit organizations. The clients we work with
 No, all work done by STATCOM is free of charge.    
 
 **Who volunteers for STATCOM projects?**  
-Our volunteers are mainly graduate students in the Department of Biostatistics, (MS and PhD). Faculty are not directly involved in our projects; however, we have a faculty advisor who will provide leadership, assistance with client meetings, and statistical consulting advice if needed.  
+Our volunteers are mainly graduate students (masters and doctorate). Faculty are not directly involved in our projects; however, we have a faculty advisor who will provide leadership, assistance with client meetings, and statistical consulting advice if needed.  
 
 **I am interested in partnering with STATCOM, what are my first steps?**  
 If you are an interested organization, you can fill out our [Service Request Form](https://docs.google.com/forms/d/e/1FAIpQLSf_c3zbxjEaNjS-LAILzmSfJU9q4NkIG0CDTUtlK5ZGG3PD7w/viewform?usp=sf_link) A member of our team will contact you to arrange a preliminary meeting to discuss your needs. If you have any further questions, we can be reached at ms5975@cumc.columbia.edu.
