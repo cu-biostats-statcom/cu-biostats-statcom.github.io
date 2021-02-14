@@ -84,7 +84,7 @@ Contact: sl4269@cumc.columbia.edu
 
 <p>&nbsp;</p>
 
-<img src="./images/Cody.png" style="width:24.2%; float:left; padding:20px;"> 
+<img src="./images/Cody.png" style="width:25%; float:left; padding:20px;"> 
 
 <p>&nbsp;</p>
 
