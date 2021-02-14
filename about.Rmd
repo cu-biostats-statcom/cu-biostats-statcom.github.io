@@ -82,6 +82,18 @@ Contact: mhk2159@cumc.columbia.edu
 Steven is currently a second year Masters student in the Biostatistics program at Columbia University. Being introduced to disparities analytics while volunteering at Mount Sinai, Steven has developed a passion for working with time series data, making visualizations and consulting. He is also a research assistant at the Center for Scientific Diversity. His goal is to contribute to diversity by helping to educate the next generation of underrepresented minorities in STEM.  
 Contact: sl4269@cumc.columbia.edu
 
+<p>&nbsp;</p>
+
+<img src="./images/Cody.png" style="width:24.2%; float:left; padding:20px;"> 
+
+<p>&nbsp;</p>
+
+
+#### **Cody Chiuzan, PhD**
+Dr. Chiuzan is an Assistant Professor in the Department of Biostatistics at Mailman. She is also affiliated with the Herbert Irving Comprehensive Cancer Center where she serves as the principal statistician on several multi-center oncology trials. Her research area focuses on development of early phase clinical trial designs nd leveraging real-world evidence to improve trial outcomes. For the last two years, Cody has served as the Chair and Co-Chair of the Diversity Committee (Department of Biostatics) and as President of the American Statistical Association (ASA) NYC Chapter.  
+Contact: cc3780@cumc.columbia.edu
+
+
 
 
 <p>&nbsp;</p>
